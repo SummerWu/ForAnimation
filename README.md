@@ -52,5 +52,6 @@ CAAnimationGroup *animationGroup = [CAAnimationGroup animation];animationGroup.d
 <br><br>
 //去掉所有动画[layer removeAllAnimations];
 <br>//去掉key动画[layer removeAnimationForKey:@"animationGroup"];
-<br>上面的gif动图效果不太好，下面给出demo，运行看下效果吧。
-
+<br>上面的gif动图效果不太好，运行看下效果吧。
+配套的博客
+http://blog.sina.com.cn/u/1962321520
