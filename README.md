@@ -16,7 +16,7 @@ CABasicAnimation* shake = [CABasicAnimation animationWithKeyPath:@"transform.rot
 
 <br><br>效果如下：
 <br><br>
-
+![](http://s4.sinaimg.cn/mw690/0028NHt6gy6TGgqchjl33&690)
 <br><br>
 <br>//界限
 <br>CABasicAnimation *boundsAnimation = [CABasicAnimationanimationWithKeyPath:@"bounds"];boundsAnimation.fromValue = [NSValue valueWithCGRect:CGRectZero];boundsAnimation.toValue = [NSValue valueWithCGRect: layer.bounds];
